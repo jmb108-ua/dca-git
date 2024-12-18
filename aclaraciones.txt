@@ -1,5 +1,8 @@
 JUAN MARTINEZ BLASCO
 
+Repositorio publico Github:
+https://github.com/jmb108-ua/dca-git.git
+
 Hemos comenzado haciendo algunas configuraciones globales que podemos ver con:
 
   $ git config --global --list
